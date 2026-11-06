@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+black_hole/black_hole.png
+black_hole/black_hole_hq.png
